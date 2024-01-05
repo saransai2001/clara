@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "price": 5.99,
+        "image": "images/1.webp"
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "price": 5.99,
+        "image": "images/2.webp"
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "price": 5.99,
+        "image": "images/3.webp"
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "price": 5.99,
+        "image": "images/4.webp"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 5.99,
+        "image": "images/5.webp"
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "price": 8.39,
+        "image": "images/6.webp"
+    },
+    {
+        "id": 7,
+        "name": "Product 7",
+        "price": 8.39,
+        "image": "images/7.webp"
+    },
+    {
+        "id": 8,
+        "name": "Product 8",
+        "price": 8.39,
+        "image": "images/9.webp"
+    },
+    {
+        "id": 9,
+        "name": "Product 9",
+        "price": 8.39,
+        "image": "images/10.webp"
+    },
+    {
+        "id": 10,
+        "name": "Product 10",
+        "price": 7.19,
+        "image": "images/11.webp"
+    },
+    {
+        "id": 11,
+        "name": "Product 11",
+        "price": 5.99,
+        "image": "images/12.webp"
+    },
+    {
+        "id": 12,
+        "name": "Product 12",
+        "price": 7.19,
+        "image": "images/13.webp"
+    },
+    {
+        "id": 13,
+        "name": "Product 13",
+        "price": 5.99,
+        "image": "images/14.webp"
+    },
+    {
+        "id": 14,
+        "name": "Product 14",
+        "price": 5.99,
+        "image": "images/15.webp"
+    },
+    {
+        "id": 15,
+        "name": "Product 15",
+        "price": 5.99,
+        "image": "images/16.webp"
+    },
+    {
+        "id": 16,
+        "name": "Product 16",
+        "price": 10.79,
+        "image": "images/17.webp"
+    },
+    {
+        "id": 17,
+        "name": "Product 17",
+        "price": 4.19,
+        "image": "images/18.webp"
+    },
+    {
+        "id": 18,
+        "name": "Product 18",
+        "price": 3.59,
+        "image": "images/19.webp"
+    }
+]
